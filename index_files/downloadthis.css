@@ -1,0 +1,33 @@
+.downloadthis:focus,
+  .downloadthis:active  {
+     box-shadow: none !important;
+  }
+  
+  .downloadthis:hover {
+     transition: 0.2s;
+     filter: brightness(0.90);
+  }
+  
+  .downloadthis:active {
+     filter: brightness(0.80);
+}
+/*
+     FILE ARCHIVED ON 23:11:49 Dec 27, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:08:31 Feb 07, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.937
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.021
+  esindex: 0.02
+  cdx.remote: 14.265
+  LoadShardBlock: 77.784 (3)
+  PetaboxLoader3.datanode: 88.447 (4)
+  load_resource: 101.286
+  PetaboxLoader3.resolve: 64.044
+*/
